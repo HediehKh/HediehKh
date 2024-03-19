@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./media/waving-hand.gif" width="28"> Hello im Hedieh Kh</h1>
+<h1 align="center"> 👋 Hello im Hedieh Kh</h1>
 
 <!--
 **HediehKh/HediehKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
