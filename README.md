@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/hedieh-kharaqani/">
 <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/HediehKh">
-<img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TrevisanGMW?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
+<img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/HediehKh?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
