@@ -17,4 +17,10 @@
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> 
 </div>
 
+<h2 align="center">Design Tools</h2>
+<div align="center">
+<img alt="Adobe Creative Cloud" src="[https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)"/>
+<img alt="Figma" src="[https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)"/> 
+</div>
+
 
