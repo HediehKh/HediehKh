@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hedieh Kh</h1>
-<h3 align="center">A passionate frontend developer from Vancouver BC</h3>
+<h3 align="center">A passionate UI/UX designer from Vancouver BC</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.justhk.ca](https://www.justhk.ca)
+- 👨‍💻 All of my projects are available at (https://github.com/HediehKh?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
